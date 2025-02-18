@@ -1,5 +1,8 @@
 ## Hi there 👋
-## 
+## 🔭 I’m currently working on building my coding portfolio.
+## 🌱 I’m currently learning how to approach cooking using the scientific method.
+## 🤔 I’m looking for help with finding interesting projects to learn and practice machine learning.
+## ⚡ Fun fact: My favorite category of food to make is curry!
 
 <!--
 **JBertEveritt15/JBertEveritt15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
